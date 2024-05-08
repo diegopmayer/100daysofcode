@@ -9,4 +9,4 @@
 > Start project in 2024-05-07
 
 ## Daily
-* <a href="/home/diegopmayer/projects/100daysofcode/code/001">Day 01 - </a> | printing function -> Band Name Generator
+* <a href="code/001">Day 01 - </a> | printing function -> Band Name Generator
